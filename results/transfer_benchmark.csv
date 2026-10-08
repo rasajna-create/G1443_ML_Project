@@ -1,0 +1,7 @@
+Test_Set,Model,Samples,MAE_V,RMSE_V,R2_Score
+Potassium (K),SVR,154,0.8356,1.0513,0.4239
+Potassium (K),DNN,154,1.204,1.5392,-0.235
+Potassium (K),KRR,154,2.0917,2.367,-1.9206
+Sodium (Na),SVR,403,0.6401,0.8473,0.5135
+Sodium (Na),DNN,403,0.6937,0.9372,0.4047
+Sodium (Na),KRR,403,1.001,1.2392,-0.0408
